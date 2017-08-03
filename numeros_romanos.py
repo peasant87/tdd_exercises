@@ -1,6 +1,7 @@
-# 10
-# IV
-# 4
+'''
+Converter algorismos romanos em indo-arabicos.
+Converter algorismos indo-arabicos em romanos.
+'''
 
 def read_roman_into_arabic(number,letters,numbers):
     output = 0
